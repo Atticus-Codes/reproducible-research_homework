@@ -10,7 +10,7 @@ The paths are not continuous; rather, they consist of many small segments connec
 
 In the left plot, the path's y-values range from approximately -5 to 1, and the x-values span from about -2 to 3. In the right plot, the y-values range from -1 to 4, and the x-values range from -1 to 4.5. Both paths finish after 500 time units. Given the number of random choices involved, it is highly unlikely that the same plot would be reproduced twice.
 
-The color gradient on each path represents the passage of time, with darker colors indicating earlier steps and lighter colors indicating later steps.
+The colour gradient on each path represents the passage of time, with darker colors indicating earlier steps and lighter colors indicating later steps.
 
 ![image](https://github.com/user-attachments/assets/b8c7186c-dc5a-4867-abe2-c0957063c4a7)
 
