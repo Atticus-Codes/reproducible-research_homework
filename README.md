@@ -28,6 +28,29 @@ The color gradient on each path represents the passage of time, with darker colo
 
 # Question 5
 
+**a) **The table has 33 rows and 13 coloumns
+**b)	**To Fit a linear model to the data on virion volume to genome length a log transformation can be applied 
+**c)**	Log transformed of an allometric equation linnearizes it into a form where 
+Log
+V = 
+
+![image](https://github.com/user-attachments/assets/6696ad1b-9c45-4056-a5bb-bf875c0ab149)
+
+d) Alpha = e^7.0748 = 1181.807 with p value of 2.28x10^-10
+Beta = 1.5152 with value of 6.44x10^-10
+
+
+
+
+Both figures have statistical significance and match those found in table 2 of supplementary of the paper. They have rounded their figures, to two d.p. in the beta colomn and to the nearest whole number in alpha colom.
+
+
+d) see script in repository called virion_analysis.R
+
+
+
+
+
 
 ## Instructions
 
