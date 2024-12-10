@@ -1,7 +1,7 @@
 # Reproducible research: version control and R
 
-## URL for reposiotry that contains answers for questions 1 - 3 : [
-](https://github.com/Griff-Does-Code/logistic_growth)
+## URL for reposiotry that contains answers for questions 1 - 3 : 
+(https://github.com/Griff-Does-Code/logistic_growth)
 # Question 4
 
 **a)** Two random paths are simulated in separate plots within a two-dimensional plane, with both x and y coordinates ranging from positive to negative values. Each path takes steps of 0.25 units in a random direction, with the step size uniform despite the axis scale. A color gradient on the paths indicates the passage of time, where dark blue represents early time steps, and light blue represents later time steps.
@@ -30,11 +30,14 @@ The color gradient on each path represents the passage of time, with darker colo
 
 **a)** The table has 33 rows and 13 coloumns
 
-**b)** To Fit a linear model to the data on virion volume to genome length a log transformation can be applied 
+**b)** To Fit a linear model to the data on virion volume to genome length a log transformation can be applied. 
 
-**c)** Log transformed of an allometric equation linnearizes it into a form where 
+**c)** Log transformed of an allometric equation linnearizes it into a form where by logV = Logalpha + betalogL
+
+Summary output :
 ![image](https://github.com/user-attachments/assets/6696ad1b-9c45-4056-a5bb-bf875c0ab149)
- Alpha = e^7.0748 = 1181.807 with p value of 2.28x10^-10
+
+Alpha = e^7.0748 = 1181.807 with p value of 2.28x10^-10
 Beta = 1.5152 with value of 6.44x10^-10
 Both figures have statistical significance and match those found in table 2 of supplementary of the paper. They have rounded their figures, to two d.p. in the beta colomn and to the nearest whole number in alpha colom.
 
