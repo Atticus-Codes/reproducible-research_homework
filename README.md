@@ -20,10 +20,9 @@ The color gradient on each path represents the passage of time, with darker colo
 **c)** See linked r script, random_walk.R
 
 **d)** 
-![image](https://github.com/user-attachments/assets/d1f324aa-2490-469a-a10f-ab9f12a618a3)
-![image](https://github.com/user-attachments/assets/9edd44a3-e0ee-452d-b0e1-55cb3cc2f00f)
-![image](https://github.com/user-attachments/assets/5bb68930-3ffa-4cd0-9bcd-f25939e69212)
 
+![Screenshot 2024-12-10 at 12 04 58](https://github.com/user-attachments/assets/33f6e93f-f5da-4d93-8852-94028ce0e6c2)
+![Screenshot 2024-12-10 at 12 05 17](https://github.com/user-attachments/assets/978e6a62-555a-43d3-a578-b831068ceed7)
 
 
 
