@@ -1,7 +1,7 @@
 # Reproducible research: version control and R
 
 ## URL for reposiotry that contains answers for questions 1 - 3 : 
-(https://github.com/Griff-Does-Code/logistic_growth)
+(https://github.com/Atticus-Codes/logistic_growth)
 # Question 4
 
 **a)** Two random paths are simulated in separate plots within a two-dimensional plane, with both x and y coordinates ranging from positive to negative values. Each path takes steps of 0.25 units in a random direction, with the step size uniform despite the axis scale. A color gradient on the paths indicates the passage of time, where dark blue represents early time steps, and light blue represents later time steps.
