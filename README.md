@@ -1,6 +1,25 @@
 # Reproducible research: version control and R
 
-\# INSERT ANSWERS HERE #
+## URL for reposiotry that contains answers for questions 1 - 3 : 
+
+# Question 4
+
+Two random paths are simulated in separate plots within a two-dimensional plane, with both x and y coordinates ranging from positive to negative values. Each path takes steps of 0.25 units in a random direction, with the step size uniform despite the axis scale. A color gradient on the paths indicates the passage of time, where dark blue represents early time steps, and light blue represents later time steps.
+
+The paths are not continuous; rather, they consist of many small segments connecting successive locations, and there are no restrictions on the paths, meaning they can overlap with previously visited areas. Both plots start at the (0, 0) coordinates of the x and y axes.
+
+In the left plot, the path's y-values range from approximately -5 to 1, and the x-values span from about -2 to 3. In the right plot, the y-values range from -1 to 4, and the x-values range from -1 to 4.5. Both paths finish after 500 time units. Given the number of random choices involved, it is highly unlikely that the same plot would be reproduced twice.
+
+The color gradient on each path represents the passage of time, with darker colors indicating earlier steps and lighter colors indicating later steps.
+
+![image](https://github.com/user-attachments/assets/b8c7186c-dc5a-4867-abe2-c0957063c4a7)
+
+
+
+
+
+# Question 5
+
 
 ## Instructions
 
